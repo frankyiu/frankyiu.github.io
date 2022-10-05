@@ -1,4 +1,4 @@
-import { Heading, Text, Avatar, HStack, Box } from '@chakra-ui/react';
+import { Heading, Text, Avatar, Box } from '@chakra-ui/react';
 import Skills from './Skills';
 
 const Opening = () => {

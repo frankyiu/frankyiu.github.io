@@ -1,22 +1,9 @@
 import React from 'react';
-import {
-  ChakraProvider,
-  Flex,
-  Container,
-  Box,
-  Text,
-  Link,
-  VStack,
-  Code,
-  Grid,
-  theme,
-} from '@chakra-ui/react';
-import { Logo } from './Logo';
+import { ChakraProvider, Flex, theme } from '@chakra-ui/react';
 import Navigation from './components/Navigation';
 import Opening from './components/Opening';
 import Contact from './components/Contact';
 import Education from './components/Education';
-import Skills from './components/Skills';
 import Project from './components/Project';
 function App() {
   return (
