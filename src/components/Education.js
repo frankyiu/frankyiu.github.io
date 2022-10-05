@@ -1,4 +1,4 @@
-import { Box, Heading, Text, Flex, Image, HStack } from '@chakra-ui/react';
+import { Box, Heading, Text, Image, HStack } from '@chakra-ui/react';
 
 const Education = () => {
   return (
